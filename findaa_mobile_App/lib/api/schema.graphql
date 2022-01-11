@@ -1,8 +1,0 @@
-input UserInput {
-    firstName: String!,
-    lastName: String!,
-    mobileNo: String!,
-    city: String!,
-    locality: String!,
-    isCustomer: Boolean!
-}
